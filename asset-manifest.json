@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vezdecode-team-react/static/css/main.a617e044.chunk.css",
-    "main.js": "/vezdecode-team-react/static/js/main.e9436d4d.chunk.js",
-    "main.js.map": "/vezdecode-team-react/static/js/main.e9436d4d.chunk.js.map",
+    "main.js": "/vezdecode-team-react/static/js/main.f7b5122e.chunk.js",
+    "main.js.map": "/vezdecode-team-react/static/js/main.f7b5122e.chunk.js.map",
     "runtime-main.js": "/vezdecode-team-react/static/js/runtime-main.2cf17a42.js",
     "runtime-main.js.map": "/vezdecode-team-react/static/js/runtime-main.2cf17a42.js.map",
     "static/css/2.2bee5e06.chunk.css": "/vezdecode-team-react/static/css/2.2bee5e06.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.2bee5e06.chunk.css",
     "static/js/2.2ddd7ef2.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.e9436d4d.chunk.js"
+    "static/js/main.f7b5122e.chunk.js"
   ]
 }
